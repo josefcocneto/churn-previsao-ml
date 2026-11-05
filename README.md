@@ -11,7 +11,7 @@ Projeto da segunda parte da disciplina Sistemas Inteligentes (CIn/UFPE, 2026.2).
 | Integrante | Contato |
 |---|---|
 | Henrique Amorim | [hlpaa@cin.ufpe.br](mailto:hlpaa@cin.ufpe.br) |
-| Henrique Passos | [hap@cin.ufpe.br](mailto:hap@cin.ufpe.br), [@Henrique-apassos](https://github.com/Henrique-apassos) |
+| Henrique Passos | [hap@cin.ufpe.br](mailto:hap@cin.ufpe.br) |
 | José Francisco Cruz Neto | [jfcn3@cin.ufpe.br](mailto:jfcn3@cin.ufpe.br) |
 | Karoline Viana | [kvf@cin.ufpe.br](mailto:kvf@cin.ufpe.br) |
 | Manoel Villarim | [mfav@cin.ufpe.br](mailto:mfav@cin.ufpe.br) |
